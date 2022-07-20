@@ -19,7 +19,7 @@ class MenuScene extends Phaser.Scene {
 		let margin = 0;
 
 		this.add
-			.text(this.config.width / 2, this.config.height / 4, "Breakout", {
+			.text(this.config.width / 2, this.config.height / 4, "Berakout", {
 				fontSize: "100px",
 				fill: "#99692e",
 			})
